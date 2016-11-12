@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BdosAnniv</string>
+    <string name="bdos_content">Barbados is an eastern Caribbean island and an independent British
+        Commonwealth nation. Bridgetown, the capital, is a cruise-ship port with colonial buildings
+        and Nidhe Israel, a synagogue founded in 1654. Around the island are beaches, botanical gardens,
+        the Harrison\’s Cave formation, and 17th-century plantation houses like St. Nicholas Abbey. Local
+        traditions include afternoon tea and cricket, the national sport.
+    </string>
+
+    <string name="food_desc">
+        Cou-cou and flying fish is Barbados\’ national dish and has the respect of both young and old
+        generations. This classic recipe for the fresh flying fish stew and thick cornmeal.
+    </string>
+
+    <string name="food_des2">
+        A unique cooking utensil called a "cou-cou stick", or "fungi stick", is used in its preparation.
+        A cou-cou stick is made of wood, and has a long, flat rectangular shape like a 1-foot-long (30 cm)
+        miniature cricket bat. It is believed by Barbadians to be essential in stirring the cou-cou, as the
+        dish takes on a firm texture and the cou-cou stick makes it easier to stir in a large pot.
+    </string>
+
+    <string name="food_des3">
+        Flying fish prepared fried or steamed is a usual complement to cou-cou. Cou-cou and flying fish has become
+        Barbados\' national dish. Corned beef, or just beef stew, is also a common accompaniment to cou-cou.
+        Traditionally, cou-cou is served on Fridays at homes across Barbados and local food establishments.
+        Cou-cou can also be prepared using breadfruit instead of cornmeal.
+    </string>
+
+
+</resources>
